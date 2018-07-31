@@ -1,0 +1,16 @@
+p {font-family: sans-serif;
+  color:white;
+
+}
+body{
+  background-color:rgb(255, 31, 159);
+    text-align: center;
+}
+body{
+border-style:double;
+border-width: thick;
+}
+
+nav{
+  color: blue;
+}
